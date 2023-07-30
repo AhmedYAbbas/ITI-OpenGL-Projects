@@ -1,6 +1,8 @@
 # ITI-OpenGL-Projects
 This repo hosts the two OpenGL projects that I made during my time at the Information Technology Institue (ITI)
 
+### Just download the repo and double-click `Generate Projects.bat` to generate a vs2022 solution then build the desired project.
+
 ## 1. Skybox
 In this project, I created a scene consisting of a 3D model (Teapot), a cubemap (Skybox), and a directional light.
 
