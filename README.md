@@ -12,5 +12,7 @@ In this project, I created a scene consisting of a 3D model (Teapot), a cubemap 
 
 * The teapot's handle and lid are not reflective, and both have a (black/grey) color. This effect was made possible using two different 2D textures; a diffuse texture and a specular texture.
 
+<img src = "Media/Skybox.png"></img>
+
 ## 2. Spotlight
 Will be uploaded soon...
